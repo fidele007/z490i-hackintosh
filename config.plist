@@ -38,6 +38,14 @@
 				<key>Path</key>
 				<string>SSDT-USBX.aml</string>
 			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>SSDT-RHUB.aml</string>
+				<key>Path</key>
+				<string>SSDT-RHUB.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -231,8 +239,6 @@
 			<dict>
 				<key>layout-id</key>
 				<integer>7</integer>
-				<key>device-id</key>
-				<data>cJ0AAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -639,8 +645,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
