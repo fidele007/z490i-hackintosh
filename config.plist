@@ -805,7 +805,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02048404CDPHCDA8</string>
+			<string>C02052500QXPHCDA8</string>
 			<key>ROM</key>
 			<data>qF5Fp7yW</data>
 			<key>SpoofVendor</key>
@@ -813,9 +813,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D90CYJV3Q</string>
+			<string>C02DWAYFPN5T</string>
 			<key>SystemUUID</key>
-			<string>3CBC22F8-D2D2-497A-9C58-CA1EED996E95</string>
+			<string>69F745B5-FD40-4BE6-81E4-104FE0180D4D</string>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 		</dict>
